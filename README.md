@@ -1,1 +1,26 @@
-# SOC
+---
+icon: windows
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
+---
+
+# Windows
+
+***
+
+При возникновении инцидента не следует выключать, перезагружать или производить иные восстановительные работы с компьютером. Необходимо оперативно уведомить Центр Мониторинга и Реагирования на Инциденты о случившемся через любой доступный канал связи, приложив кратко контекст инцидента: что произошло, где, когда и как проявилось. Далее приступить к сбору необходимой для анализа информации. Данная инструкция предназначена для использования на операционных системах семейства Windows.
