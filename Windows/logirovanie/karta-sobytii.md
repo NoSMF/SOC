@@ -1,0 +1,7 @@
+---
+icon: map
+---
+
+# Карта событий
+
+<figure><img src="../.gitbook/assets/Eventhood.png" alt=""><figcaption></figcaption></figure>
